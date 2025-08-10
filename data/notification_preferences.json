@@ -1,0 +1,18 @@
+{
+    "test_user": {
+        "inventory_alerts": false,
+        "expiry_alerts": true,
+        "trend_alerts": true,
+        "priority_filter": "high",
+        "auto_refresh": false,
+        "refresh_interval": 600
+    },
+    "admin": {
+        "inventory_alerts": true,
+        "expiry_alerts": true,
+        "trend_alerts": false,
+        "priority_filter": "all",
+        "auto_refresh": true,
+        "refresh_interval": 300
+    }
+}

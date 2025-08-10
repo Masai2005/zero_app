@@ -1,0 +1,42 @@
+[
+    {
+        "id": "cust_001",
+        "name": "Sarah Johnson",
+        "email": "sarah.johnson@email.com",
+        "phone": "+1-555-0123",
+        "address": "123 Main Street, Downtown",
+        "created_at": "2024-07-15T10:30:00"
+    },
+    {
+        "id": "cust_002",
+        "name": "Michael Chen",
+        "email": "michael.chen@businessmail.com", 
+        "phone": "+1-555-0456",
+        "address": "456 Business Ave, Tech District",
+        "created_at": "2024-08-02T14:20:00"
+    },
+    {
+        "id": "cust_003",
+        "name": "Emma Rodriguez",
+        "email": "emma.rodriguez@personal.com",
+        "phone": "+1-555-0789",
+        "address": "789 Residential Blvd, Suburbia",
+        "created_at": "2024-08-05T16:45:00"
+    },
+    {
+        "id": "cust_004",
+        "name": "David Wilson",
+        "email": "d.wilson@corp.com",
+        "phone": "+1-555-0321",
+        "address": "321 Corporate Plaza, Business Center",
+        "created_at": "2024-08-08T11:15:00"
+    },
+    {
+        "id": "cust_005",
+        "name": "Lisa Thompson",
+        "email": "lisa.t@homemail.com",
+        "phone": "+1-555-0654",
+        "address": "654 Family Lane, Quiet Neighborhood",
+        "created_at": "2024-08-09T09:30:00"
+    }
+]

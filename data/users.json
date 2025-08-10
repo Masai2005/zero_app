@@ -1,0 +1,14 @@
+{
+    "admin": {
+        "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+        "type": "admin",
+        "name": "Administrator",
+        "created_at": "2025-08-09T10:27:18.772449"
+    },
+    "salesman": {
+        "password": "3dcedf90013a36685c8864d9feea619122bb95d1a5f45fca8993c535a98932b3",
+        "type": "salesman",
+        "name": "Salesman",
+        "created_at": "2025-08-09T14:30:00.000000"
+    }
+}
